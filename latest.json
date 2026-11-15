@@ -1,7 +1,8 @@
 {
-  "notes": [
-    "Owner settings are hidden from the tray unless owner.json exists (start once with --owner to create it)"
-  ],
+  "version": "1.6.0",
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
-  "version": "1.5.1"
+  "notes": [
+    "Owner settings now live on GitHub (private repo, owner/settings.json) - nothing to set up in the app",
+    "Owner gets a private RewardTracker-Owner.exe; players' RewardTracker.exe has no owner parts at all"
+  ]
 }
