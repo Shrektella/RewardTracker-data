@@ -1,0 +1,9 @@
+{
+  "version": "1.5.0",
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
+  "notes": [
+    "New, simpler window: Home, Rewards, History, Settings",
+    "Runs start with the first mission; empty runs aren't saved",
+    "Players only need a Discord webhook"
+  ]
+}
