@@ -1,9 +1,7 @@
 {
-  "notes": [
-    "/set results #channel and /set submissions #channel - no more channel IDs",
-    "The bot makes the submissions webhook itself and shares it with players' apps",
-    "You're recognised as the owner automatically - no user ID needed"
-  ],
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
-  "version": "1.6.1"
+  "version": "1.6.2",
+  "notes": [
+    "Opening the app never starts watching - press Start watching (window, tray or /resume)"
+  ]
 }
