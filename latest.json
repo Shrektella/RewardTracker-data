@@ -1,12 +1,7 @@
 {
   "notes": [
-    "New, simpler window: Home, Rewards, History, Settings (gold theme)",
-    "Runs start with the first mission; empty runs aren't saved; a run ends after 30 min idle",
-    "Players only need a Discord webhook; owner settings live in owner.json on the owner's PC",
-    "Reward list and downloads come from the public RewardTracker-data repo",
-    "Players are told when a new exe is out instead of auto-updating code",
-    "Qt window removed"
+    "Owner settings are hidden from the tray unless owner.json exists (start once with --owner to create it)"
   ],
-  "version": "1.5.0",
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
+  "version": "1.5.1"
 }
