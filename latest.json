@@ -1,7 +1,9 @@
 {
-  "version": "1.10.3",
+  "version": "1.10.4",
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
   "notes": [
-    "Fixed the macro code reloading over and over (every few seconds) when the tracker hadn't been restarted since 1.9.16"
+    "Shift bar: the banner shows 'Bar full - pressing 3', '✓ Shifted', 'No shift before the cut-off' or 'Shift bar not seen'",
+    "Any step can be set to 'skip if bar is full'",
+    "A screenshot is saved (data/stuck) when the shift step runs, so the bar position can be checked"
   ]
 }
