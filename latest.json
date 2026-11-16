@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
   "notes": [
-    "Macros: typed values save after a short pause in typing, and Save always includes the value you just typed (two quick saves can't overwrite each other)"
+    "Macros: Save also updates the macro's file in Downloads (and Export overwrites it instead of making copies), so the file you import elsewhere always matches"
   ],
-  "version": "1.11.1"
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
+  "version": "1.11.2"
 }
