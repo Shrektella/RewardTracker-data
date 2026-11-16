@@ -1,9 +1,7 @@
 {
-  "version": "1.11.5",
   "notes": [
-    "Macros: a check can click what it found several times ('Check for Retry → click it ×12'), so Retry is clicked wherever it is, at any resolution",
-    "Steps can be set to run 'only if the check before didn't find it' (a fallback)",
-    "A find-and-click check can wait afterwards ('then wait N s') to keep the rest of the macro in time"
+    "Discord: tracked rewards show their drop rate (all time, and this run once it has 3+ missions) - per win for rewards that only drop on wins"
   ],
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
+  "version": "1.11.6"
 }
