@@ -1,7 +1,7 @@
 {
-  "version": "1.7.2",
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
   "notes": [
-    "Results screen is found whether Roblox is full screen, windowed or at another resolution"
-  ]
+    "/learn explains when Discord hides message pictures from the bot (Message Content Intent)"
+  ],
+  "version": "1.7.3"
 }
