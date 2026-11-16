@@ -1,9 +1,8 @@
 {
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
+  "version": "1.10.1",
   "notes": [
-    "Macros: 'Shift when the bar is full' - watches the titan bar (any colour) beside the macro and presses your shift key the moment it's full; presses again if the shift didn't take",
-    "'Stop watching the bar' sets the point after which it never tries to shift",
-    "The run panel shows the bar's fill while it's watching"
+    "Shift bar: once the bar is full it keeps pressing the shift key (every 0.35 s) until the shift actually happens - you can only shift near the ground",
+    "A shift is confirmed when the bar stays empty for 0.5 s (brief flashes over the bar are ignored)"
   ],
-  "version": "1.10.0"
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
 }
