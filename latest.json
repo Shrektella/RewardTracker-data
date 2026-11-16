@@ -1,7 +1,10 @@
 {
   "notes": [
-    "/learn counts each screenshot once (posts hold it twice) and tries every copy before giving up"
+    "New rewards from /learn no longer get removed by the clean-up (it misjudged some small pictures)",
+    "New reward pictures are saved with the whole frame",
+    "Owner's new-reward messages say how to name them (no confusing 'code -')",
+    "The window keeps refreshing even when a box is selected; typed names are kept"
   ],
-  "version": "1.8.4",
+  "version": "1.8.5",
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
 }
