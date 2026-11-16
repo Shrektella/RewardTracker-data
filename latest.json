@@ -1,8 +1,7 @@
 {
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
   "notes": [
-    "Tracker: if a results screen seems to never go away, it checks every few seconds whether the rewards changed - a new results screen is counted instead of being missed",
-    "A picture is saved in data/stuck when a results screen has been up for 3 minutes, and the 'stuck' alert includes the screen"
+    "Macros: simpler rule - whenever the results / Retry screen is showing, the macro starts over (at most every 8 s so the Retry click can work). It never gives up; if the screen won't go after 20 tries you get one alert with a screenshot"
   ],
-  "version": "1.9.11"
+  "version": "1.9.12"
 }
