@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
-  "version": "1.12.4",
+  "version": "1.12.5",
   "notes": [
-    "/update now reloads the controller-block code too (earlier fixes weren't reaching a running app)"
-  ]
+    "Macros: new 'Eject early if HP/awakening low' step - while you're a titan, presses your eject key when either bar drops to 5% (a stuck titan), so you get resupplied; the macro's own eject is then skipped"
+  ],
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
 }
