@@ -1,8 +1,8 @@
 {
-  "notes": [
-    "Macro hotkeys (F6/F7) work over Remote Desktop - keys from RDP were being ignored as 'injected'",
-    "The backup key check now always runs alongside the hook"
-  ],
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
-  "version": "1.9.15"
+  "notes": [
+    "Macro code (hotkeys, banner, runner) now reloads after an update - before, it kept running the version from when the tracker started",
+    "Hotkey boxes on the Macros page are never empty"
+  ],
+  "version": "1.9.16"
 }
