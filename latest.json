@@ -1,7 +1,10 @@
 {
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
   "notes": [
-    "The tracker runs below normal priority and reads numbers at idle priority, so it never competes with the game or your macro at the results screen"
+    "New Macros page: import LuvMacro files (all step types and pictures) or record your own, edit counts / waits / checks, and play them",
+    "Checks for the Retry button, the results screen or any picture - one step, with 'found' and 'not found' choices",
+    "F6 starts/stops the selected macro, F8 stops everything; pauses if Roblox isn't the active window",
+    "Only the tracker's watching thread runs at low priority now, so macros keep exact timing"
   ],
-  "version": "1.8.17"
+  "version": "1.9.0"
 }
