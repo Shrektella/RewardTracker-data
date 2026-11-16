@@ -1,7 +1,9 @@
 {
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
-  "version": "1.9.7",
+  "version": "1.9.8",
   "notes": [
-    "Macros: Export works - saves the macro to your Downloads folder and shows it in Explorer"
-  ]
+    "Macros: the start/stop banner shows on top of everything (fixed it not drawing), on the screen Roblox is on",
+    "Macro hotkeys are kept from other apps (e.g. Medal won't screenshot on F7)",
+    "Choose your own start/stop and stop keys on the Macros page"
+  ],
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
 }
