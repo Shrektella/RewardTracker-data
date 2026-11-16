@@ -1,9 +1,7 @@
 {
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
+  "version": "1.9.7",
   "notes": [
-    "Macros: a banner + sound when a macro starts or stops (and when recording starts/stops) - it never takes focus",
-    "F6/F7 use a keyboard hook now, so the press is never missed (old check kept as a backup)",
-    "The Macros page shows whether the hotkeys are ready"
-  ],
-  "version": "1.9.6"
+    "Macros: Export works - saves the macro to your Downloads folder and shows it in Explorer"
+  ]
 }
