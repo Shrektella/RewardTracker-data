@@ -1,7 +1,8 @@
 {
   "notes": [
-    "Click any reward picture to see the saved image full size, with its size and every backup picture (Esc or click outside to close, arrow keys to flip)"
+    "If a backup picture is sharper than the main one, it becomes the main picture automatically (fixes Scroll)",
+    "Picture viewer: 'Make main picture' button (owner) - your choice is kept"
   ],
-  "version": "1.8.11",
+  "version": "1.8.12",
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
 }
