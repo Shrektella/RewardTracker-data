@@ -1,8 +1,7 @@
 {
-  "notes": [
-    "/learn goes through the whole channel and reports exactly what it read",
-    "Reward pictures are replaced with sharper ones whenever a reward is seen bigger (the owner's app updates the shared list for everyone)"
-  ],
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
-  "version": "1.8.1"
+  "version": "1.8.2",
+  "notes": [
+    "Tiles with fading pink/purple frames are found in small screenshots too"
+  ]
 }
