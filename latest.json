@@ -1,7 +1,7 @@
 {
-  "version": "1.11.10",
+  "version": "1.12.0",
   "notes": [
-    "Mouse method choices are named (SendInput, SendInput raw, mouse_event, move the cursor)"
+    "Macros: 'Keep controllers away from this Roblox (needs HidHide)' - turn it on in the RDP copy: HidHide then blocks only that Windows user's Roblox from seeing controllers, and the tracker keeps it up to date when Roblox updates. Your other Roblox keeps the controller."
   ],
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
 }
