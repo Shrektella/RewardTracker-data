@@ -1,8 +1,8 @@
 {
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
   "notes": [
-    "Macro code (hotkeys, banner, runner) now reloads after an update - before, it kept running the version from when the tracker started",
-    "Hotkey boxes on the Macros page are never empty"
+    "The tracker only looks for missions while Roblox is the active window - other windows (browser, Discord, Claude) were sometimes read as a failed mission",
+    "Nothing posted to Discord includes a screenshot unless Roblox is the active window"
   ],
-  "version": "1.9.16"
+  "version": "1.9.17",
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
 }
