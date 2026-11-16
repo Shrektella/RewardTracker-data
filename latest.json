@@ -1,7 +1,7 @@
 {
-  "notes": [
-    "Discord: tracked rewards show their drop rate (all time, and this run once it has 3+ missions) - per win for rewards that only drop on wins"
-  ],
+  "version": "1.11.7",
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
-  "version": "1.11.6"
+  "notes": [
+    "Discord: Tracked totals and the Rare drop line are for THIS run (amount + drop rate), matching the W / L - the all-time total stays in brackets"
+  ]
 }
