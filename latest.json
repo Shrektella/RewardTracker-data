@@ -1,7 +1,9 @@
 {
-  "version": "1.7.8",
+  "version": "1.8.0",
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
   "notes": [
-    "Rewards are read from 5 frames: numbers must agree in two frames, and each reward is recognised by majority vote"
-  ],
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
+    "Rewards are recognised even when the scene tints the tiles (orange sky, dark rooms) - duplicates merge automatically",
+    "Approving a new reward with an existing name merges it and saves it as another picture of that reward",
+    "The approval box suggests 'Looks like: …' with a one-click button"
+  ]
 }
