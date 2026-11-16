@@ -1,7 +1,8 @@
 {
-  "notes": [
-    "Removed /learn - new rewards are picked up while you macro"
-  ],
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
-  "version": "1.8.8"
+  "version": "1.8.9",
+  "notes": [
+    "New-reward posts suggest which reward it looks like, with a ready /approve to merge",
+    "Rewards page button now says 'Yes, merge into X'"
+  ]
 }
