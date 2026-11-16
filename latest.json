@@ -1,7 +1,8 @@
 {
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
   "notes": [
-    "Shift bar: the shift is confirmed by skill 3 going on cooldown (its icon dims) - much more reliable than the flash, which stays as a backup"
+    "Mission posts show THIS run's wins / losses and run time (they were all-time numbers and time since the app opened)",
+    "/stats shows this run and all time separately"
   ],
-  "version": "1.10.7",
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
+  "version": "1.10.8"
 }
