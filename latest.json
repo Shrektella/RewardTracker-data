@@ -1,8 +1,9 @@
 {
-  "notes": [
-    "New rewards and /learn go to the submissions channel (owner), not the results channel",
-    "Better at telling rewards apart across screenshots - no more duplicate 'new' rewards; existing duplicates are merged"
-  ],
+  "version": "1.7.7",
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
-  "version": "1.7.6"
+  "notes": [
+    "Opens faster: the window and tray appear first, online checks happen in the background",
+    "Smaller download",
+    "Owner: approve and name new rewards right on the Rewards page (or mark them 'Not a reward')"
+  ]
 }
