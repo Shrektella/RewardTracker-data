@@ -1,9 +1,7 @@
 {
-  "version": "1.7.1",
+  "version": "1.7.2",
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
   "notes": [
-    "The tracker opens in its own app window - no browser, no Microsoft account popup",
-    "Gold coin app icon",
-    "Only one copy can run - opening it again just shows the window"
-  ],
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
+    "Results screen is found whether Roblox is full screen, windowed or at another resolution"
+  ]
 }
