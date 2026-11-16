@@ -1,7 +1,7 @@
 {
-  "version": "1.12.7",
   "notes": [
-    "Stopped reading letters on the MISSION COMPLETED / FAILED banner (the O's and the D) as new reward tiles"
+    "This run's reward totals now follow along when two unnamed pictures turn out to be the same reward (they used to drop out of the run's count)"
   ],
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
+  "version": "1.12.8"
 }
