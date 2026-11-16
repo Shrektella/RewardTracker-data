@@ -1,7 +1,7 @@
 {
   "notes": [
-    "Shift bar: catches the shift's white flash more reliably (looks more often while pressing, and spots a sudden brightness jump on pale maps)"
+    "Shift bar: the shift is confirmed by skill 3 going on cooldown (its icon dims) - much more reliable than the flash, which stays as a backup"
   ],
-  "version": "1.10.5",
+  "version": "1.10.7",
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
 }
