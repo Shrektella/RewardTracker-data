@@ -1,8 +1,7 @@
 {
-  "version": "1.8.10",
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
   "notes": [
-    "Sharper pictures of known rewards (Gems, XP...) keep the old picture as a backup",
-    "A note is posted in the submissions channel when a picture is upgraded"
-  ]
+    "Click any reward picture to see the saved image full size, with its size and every backup picture (Esc or click outside to close, arrow keys to flip)"
+  ],
+  "version": "1.8.11",
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
 }
