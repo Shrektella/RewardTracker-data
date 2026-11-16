@@ -1,7 +1,8 @@
 {
+  "version": "1.7.4",
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
   "notes": [
-    "/learn explains when Discord hides message pictures from the bot (Message Content Intent)"
-  ],
-  "version": "1.7.3"
+    "Bits of the screen (orange sky, buttons, bars) are no longer mistaken for rewards",
+    "Fake rewards collected earlier are removed automatically"
+  ]
 }
