@@ -1,9 +1,8 @@
 {
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
-  "version": "1.7.5",
   "notes": [
-    "Reward tiles with any frame colour (gold, blue, pink, purple) are found",
-    "Bits of the screen (orange sky, buttons, bars) are no longer mistaken for rewards",
-    "Fake rewards collected earlier are removed automatically"
-  ]
+    "New rewards and /learn go to the submissions channel (owner), not the results channel",
+    "Better at telling rewards apart across screenshots - no more duplicate 'new' rewards; existing duplicates are merged"
+  ],
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
+  "version": "1.7.6"
 }
