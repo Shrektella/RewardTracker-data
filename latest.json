@@ -1,7 +1,7 @@
 {
-  "version": "1.12.5",
+  "version": "1.12.6",
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
   "notes": [
-    "Macros: new 'Eject early if HP/awakening low' step - while you're a titan, presses your eject key when either bar drops to 5% (a stuck titan), so you get resupplied; the macro's own eject is then skipped"
-  ],
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
+    "Macros: new 'Find a stuck titan' step - reads Slay Titans; when 2 or fewer are left and the count hasn't moved for 10 s, it pauses the macro, looks down (titan at your feet → presses 1, then 2), otherwise zooms out and turns all the way round to find the titan's marker and faces it"
+  ]
 }
