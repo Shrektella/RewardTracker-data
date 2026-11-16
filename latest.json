@@ -1,8 +1,7 @@
 {
+  "version": "1.9.14",
   "notes": [
-    "Macros: new Runs option 'Automatic (waits for Retry)' - plays once, then presses nothing until the Retry screen shows, and starts again from the top",
-    "In Automatic mode, if no Retry screen shows for 5+ min you get an alert with a screenshot (the macro keeps waiting, pressing nothing)"
+    "Macros: Save button and a '✓ Saved' time on each macro (changes always saved themselves - no need to export)"
   ],
-  "version": "1.9.13",
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
 }
