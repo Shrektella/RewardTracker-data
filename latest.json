@@ -1,8 +1,7 @@
 {
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
+  "version": "1.12.4",
   "notes": [
-    "Controller block: fixed a false 'HidHide isn't installed' when switching it on (two parts of the app connected at once)",
-    "Controller block: says when HidHide is busy (its settings window is open) instead of 'not installed', and waits a moment for it"
-  ],
-  "version": "1.12.3",
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
+    "/update now reloads the controller-block code too (earlier fixes weren't reaching a running app)"
+  ]
 }
