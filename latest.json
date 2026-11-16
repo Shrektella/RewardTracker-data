@@ -1,7 +1,11 @@
 {
   "notes": [
-    "Macros: the start/stop banner now shows its text (it was blank) - drawn as a picture, rounded, on top of everything"
+    "Macros: if the results screen is still up 15 s after Retry, it tries again; after 4 tries it stops the macro and alerts you in Discord with a screenshot",
+    "Macros: no results screen for 5+ min → starts over once; still nothing → stops and alerts (no more hours of useless inputs)",
+    "Tracker: alerts when the same results screen stays up too long",
+    "Screenshots of what went wrong are kept in data/stuck",
+    "Approving a name whose picture already exists on GitHub no longer fails (422)"
   ],
-  "version": "1.9.9",
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
+  "version": "1.9.10"
 }
