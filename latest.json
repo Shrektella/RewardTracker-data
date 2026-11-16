@@ -1,8 +1,7 @@
 {
-  "version": "1.8.16",
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
   "notes": [
-    "Owner: 'Waiting for approval' is shared between your PCs - it reads the submissions channel (your RDP's finds and players' submissions)",
-    "Approving or rejecting on one PC clears it on the others (kept in owner/inbox.json)"
-  ]
+    "The tracker runs below normal priority and reads numbers at idle priority, so it never competes with the game or your macro at the results screen"
+  ],
+  "version": "1.8.17"
 }
