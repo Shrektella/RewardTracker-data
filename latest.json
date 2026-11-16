@@ -1,9 +1,7 @@
 {
-  "version": "1.7.7",
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
+  "version": "1.7.8",
   "notes": [
-    "Opens faster: the window and tray appear first, online checks happen in the background",
-    "Smaller download",
-    "Owner: approve and name new rewards right on the Rewards page (or mark them 'Not a reward')"
-  ]
+    "Rewards are read from 5 frames: numbers must agree in two frames, and each reward is recognised by majority vote"
+  ],
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
 }
