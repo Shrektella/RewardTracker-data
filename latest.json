@@ -1,8 +1,8 @@
 {
+  "version": "1.8.10",
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
-  "version": "1.8.9",
   "notes": [
-    "New-reward posts suggest which reward it looks like, with a ready /approve to merge",
-    "Rewards page button now says 'Yes, merge into X'"
+    "Sharper pictures of known rewards (Gems, XP...) keep the old picture as a backup",
+    "A note is posted in the submissions channel when a picture is upgraded"
   ]
 }
