@@ -1,11 +1,9 @@
 {
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
-  "version": "1.8.6",
   "notes": [
-    "New rewards found by the owner app get an approval code too",
-    "Approving with an existing name merges right away (counts move over, no waiting on GitHub)",
-    "If the new picture is sharper, it replaces the old one in the shared list",
-    "The window reloads itself after an update",
-    "The same results screen is no longer counted twice"
-  ]
+    "Reads TIME TAKEN from the results screen",
+    "Shown in each Discord mission post (with the run's average, or 🏆 for the fastest win)",
+    "Added to session logs, summaries, digests, /compare, CSV export and the app (last mission + every mission table)"
+  ],
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
+  "version": "1.8.7"
 }
