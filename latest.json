@@ -1,7 +1,7 @@
 {
-  "version": "1.12.1",
   "notes": [
-    "Controller block: fixed 'HidHide request failed (87)' (on/off settings are read as a single byte)"
+    "Controller block: says when HidHide is busy (its settings window is open) instead of 'not installed', and waits a moment for it"
   ],
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
+  "version": "1.12.2"
 }
