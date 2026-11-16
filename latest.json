@@ -1,9 +1,7 @@
 {
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
-  "version": "1.11.0",
   "notes": [
-    "Run controls: End run (save it now, next mission starts a new run), Remove last mission (undo a false detection), Discard run (throw the current run away)",
-    "History: Delete run removes a saved run and takes its missions out of your totals and stats",
-    "Discord: /endrun, /undo, /discard"
-  ]
+    "Macros: typed values save after a short pause in typing, and Save always includes the value you just typed (two quick saves can't overwrite each other)"
+  ],
+  "version": "1.11.1"
 }
