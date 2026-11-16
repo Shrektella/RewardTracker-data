@@ -1,7 +1,7 @@
 {
-  "notes": [
-    "This run's reward totals now follow along when two unnamed pictures turn out to be the same reward (they used to drop out of the run's count)"
-  ],
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
-  "version": "1.12.8"
+  "notes": [
+    "Reward amounts are now read by matching the game's own digits (1080p and up) instead of general OCR: the game's thin '1' no longer reads as 7, and commas no longer turn into 0s"
+  ],
+  "version": "1.12.9"
 }
