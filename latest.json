@@ -1,7 +1,8 @@
 {
-  "version": "1.9.14",
   "notes": [
-    "Macros: Save button and a '✓ Saved' time on each macro (changes always saved themselves - no need to export)"
+    "Macro hotkeys (F6/F7) work over Remote Desktop - keys from RDP were being ignored as 'injected'",
+    "The backup key check now always runs alongside the hook"
   ],
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
+  "version": "1.9.15"
 }
