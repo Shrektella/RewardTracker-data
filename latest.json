@@ -1,7 +1,8 @@
 {
-  "version": "1.11.7",
+  "version": "1.11.9",
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
   "notes": [
-    "Discord: Tracked totals and the Rare drop line are for THIS run (amount + drop rate), matching the W / L - the all-time total stays in brackets"
+    "Macros: 'Mouse method' + Test button - tries 4 ways of sending camera movement and scrolling (Remote Desktop can ignore some); pick the number that moved the camera",
+    "The chosen mouse method is used even when starting with F6 right after a restart"
   ]
 }
