@@ -1,7 +1,7 @@
 {
-  "version": "1.10.2",
+  "version": "1.10.3",
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
   "notes": [
-    "Shift bar: the shift is confirmed by its white flash (most of the screen turns white) - the bar doesn't empty when you shift"
+    "Fixed the macro code reloading over and over (every few seconds) when the tracker hadn't been restarted since 1.9.16"
   ]
 }
