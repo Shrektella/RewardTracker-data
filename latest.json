@@ -1,10 +1,11 @@
 {
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
+  "version": "1.8.6",
   "notes": [
-    "New rewards from /learn no longer get removed by the clean-up (it misjudged some small pictures)",
-    "New reward pictures are saved with the whole frame",
-    "Owner's new-reward messages say how to name them (no confusing 'code -')",
-    "The window keeps refreshing even when a box is selected; typed names are kept"
-  ],
-  "version": "1.8.5",
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
+    "New rewards found by the owner app get an approval code too",
+    "Approving with an existing name merges right away (counts move over, no waiting on GitHub)",
+    "If the new picture is sharper, it replaces the old one in the shared list",
+    "The window reloads itself after an update",
+    "The same results screen is no longer counted twice"
+  ]
 }
