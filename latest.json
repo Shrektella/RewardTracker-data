@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
-  "version": "1.8.14",
   "notes": [
-    "New /fix reward: read: real: - correct a misread amount (totals, run log and history)"
-  ]
+    "When a number can't be read, the owner app posts that tile at full size in the submissions channel (once per reward per session) and keeps it in data/unread"
+  ],
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
+  "version": "1.8.15"
 }
