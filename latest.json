@@ -1,7 +1,9 @@
 {
-  "notes": [
-    "Macros: new 'Spawn check (goes first)' step - if you're already in the mission when you start the macro (Slay Titans is showing), the steps you tick 'skip if already spawned' (Retry check, loading wait) are skipped so it starts playing straight away"
-  ],
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
-  "version": "1.12.11"
+  "notes": [
+    "Macros: '＋ New macro' makes an empty macro - recording only starts when you press ● Record in it (● Record more adds to the end)",
+    "Macros: ⧉ copies a step; paste it into any macro with ＋ → Paste (or 'Paste at the start', which also works in an empty macro)",
+    "Macros: new 'Camera move (degrees)' step - turn left/right and look up/down by an angle, over a set time. Set 'Mouse counts for a full turn' once with Test 360°"
+  ],
+  "version": "1.12.12"
 }
