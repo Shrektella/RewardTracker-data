@@ -1,7 +1,7 @@
 {
-  "version": "1.12.25",
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
+  "version": "1.12.26",
   "notes": [
-    "On-screen step box: waits and other timed steps count down (e.g. '9.2 s left · Wait 13.4 s')"
-  ]
+    "Time Taken: thin '1's no longer get dropped (01:11 was read as 0:11) - the reader now finds the two colons and spots each '1' by its shape"
+  ],
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
 }
