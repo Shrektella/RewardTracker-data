@@ -1,7 +1,8 @@
 {
   "notes": [
-    "Macros: Camera move is simpler - one direction (Right / Left / Up / Down) and one angle per step"
+    "Macros: new 'Key press' step (one press)",
+    "Macros: key boxes - click and press the key you want (Left Ctrl, Shift, Space, arrows...); typed names like 'left control' work too, and unknown keys are refused instead of silently doing nothing"
   ],
-  "version": "1.12.15",
+  "version": "1.12.16",
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
 }
