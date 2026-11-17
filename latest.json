@@ -1,7 +1,8 @@
 {
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
-  "version": "1.12.18",
   "notes": [
-    "Macros: drag steps by the ⠿ handle to move them; drag one of several selected steps to move them all together"
-  ]
+    "Macros: paste anywhere - toolbar 'Paste…' → at the top / at the bottom, or a step's ＋ → Paste above / below this step",
+    "Macros: new option 'Show the step being played on screen' - a small box over Roblox (top-left) with the current step, step x of y and the run number"
+  ],
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
+  "version": "1.12.19"
 }
