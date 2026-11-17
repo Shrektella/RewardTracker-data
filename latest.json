@@ -1,7 +1,7 @@
 {
-  "version": "1.12.22",
+  "version": "1.12.23",
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
   "notes": [
-    "Macros: 'stop once spawned' works on every timed step - recordings, key presses/spam, clicks and waits - stopping the step the moment Slay Titans shows (optionally then waiting a set time)"
+    "Shift: once the bar is full it keeps pressing until you've shifted (no more giving up after 20 s mid-press); 'Stop watching the bar' now holds the macro there until the shift happens (up to 30 s, adjustable) instead of carrying on unshifted"
   ]
 }
