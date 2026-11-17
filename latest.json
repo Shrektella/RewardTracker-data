@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
   "notes": [
-    "Macros: the ↑ ↓ ＋ buttons on a step no longer switch the step on/off instead (the switch's invisible click area was 170 px wide)"
+    "Macros: new 'Spawn check (goes first)' step - if you're already in the mission when you start the macro (Slay Titans is showing), the steps you tick 'skip if already spawned' (Retry check, loading wait) are skipped so it starts playing straight away"
   ],
-  "version": "1.12.10"
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
+  "version": "1.12.11"
 }
