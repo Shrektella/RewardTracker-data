@@ -1,7 +1,7 @@
 {
-  "notes": [
-    "Macros: the toolbar Paste button now adds copied steps at the end (use a step's ＋ → Paste to put them after that step)"
-  ],
   "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
-  "version": "1.12.17"
+  "version": "1.12.18",
+  "notes": [
+    "Macros: drag steps by the ⠿ handle to move them; drag one of several selected steps to move them all together"
+  ]
 }
