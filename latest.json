@@ -1,7 +1,7 @@
 {
-  "version": "1.12.21",
+  "version": "1.12.22",
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
   "notes": [
-    "Macros: Wait steps have 'end early once spawned' - keeps looking for Slay Titans during the wait and moves on as soon as you've spawned (optionally plus a few seconds more). Works after every Retry, not just at the start"
-  ],
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
+    "Macros: 'stop once spawned' works on every timed step - recordings, key presses/spam, clicks and waits - stopping the step the moment Slay Titans shows (optionally then waiting a set time)"
+  ]
 }
