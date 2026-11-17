@@ -1,7 +1,7 @@
 {
-  "version": "1.12.24",
+  "version": "1.12.25",
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
   "notes": [
-    "Macros: 'Bar counts as full at N%' slider - how full the shift bar must be before it starts pressing the shift key (also used by 'skip if bar is full')"
-  ],
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
+    "On-screen step box: waits and other timed steps count down (e.g. '9.2 s left · Wait 13.4 s')"
+  ]
 }
