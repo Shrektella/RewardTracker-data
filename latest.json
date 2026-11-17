@@ -1,7 +1,7 @@
 {
-  "version": "1.12.23",
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
+  "version": "1.12.24",
   "notes": [
-    "Shift: once the bar is full it keeps pressing until you've shifted (no more giving up after 20 s mid-press); 'Stop watching the bar' now holds the macro there until the shift happens (up to 30 s, adjustable) instead of carrying on unshifted"
-  ]
+    "Macros: 'Bar counts as full at N%' slider - how full the shift bar must be before it starts pressing the shift key (also used by 'skip if bar is full')"
+  ],
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
 }
