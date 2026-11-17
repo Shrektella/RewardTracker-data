@@ -1,8 +1,7 @@
 {
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
-  "version": "1.12.14",
   "notes": [
-    "Macros: '＋ Add step…' menu in the toolbar - adds steps at the end, also in an empty macro",
-    "Macros: select several steps with the boxes on the left (drag across them, or Shift+click for everything in between), then '⧉ Copy N selected' and paste them into any macro"
-  ]
+    "Macros: Camera move is simpler - one direction (Right / Left / Up / Down) and one angle per step"
+  ],
+  "version": "1.12.15",
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
 }
