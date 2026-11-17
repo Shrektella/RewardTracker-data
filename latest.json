@@ -1,7 +1,8 @@
 {
-  "version": "1.12.26",
+  "version": "1.12.27",
+  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest",
   "notes": [
-    "Time Taken: thin '1's no longer get dropped (01:11 was read as 0:11) - the reader now finds the two colons and spots each '1' by its shape"
-  ],
-  "url": "https://github.com/Shrektella/RewardTracker-data/releases/latest"
+    "Security: the submissions webhook is no longer written in plain text to the public repo (bots scan GitHub for webhook addresses and spam them); the owner's app removes the old plain-text copy",
+    "Bot messages now carry timestamps (embeds show the time in each viewer's time zone; text messages get a small time line)"
+  ]
 }
